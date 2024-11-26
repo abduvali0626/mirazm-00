@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.kata{
+    background-color: black;
+}
+.ota{
+    display: flex;
+    justify-content:space-between;
+}
+.soz{
+    color: aliceblue;
+}
+.kj{
+    display: flex;
+    justify-content: center;
+    background-color: #222222;
+}
+.jk{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 50px;
+}
+.iu{
+    height: 1024px;
+  background-image:url(./image\ 5\ \(2\).png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.ona{
+    display: flex;
+    justify-content: center;
+}
+.ona h1{
+    margin-top: 490px;
+}
+.kl{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+.lk{
+    background-color: #F1A900 ;
+    color: black;
+}
+.bg{
+    background-color: #F1A90054;
+}
+.jj{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+.bosh{
+    display: flex;
+    justify-content: space-between;
+    background-color: #222222;
+}
+.nimadur{
+    margin-top: 10px;
+}
+.nimadur img{
+    margin-right: 60px;
+}
